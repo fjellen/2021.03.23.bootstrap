@@ -11,7 +11,7 @@
 }
 
 .child {
-    width: 400px;
+    width: 290px;
     max-width: 90%; 
     min-height: 300px;
     background-color: white;
@@ -22,4 +22,15 @@
     border-color: black;
     border: solid;
     padding: 8px;
+}
+
+.col-md-12 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+
+}
+
+.bröd {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
 }
